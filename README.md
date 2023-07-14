@@ -5,7 +5,7 @@ Hey there!
 
 Welcome to my portfolio on GitHub! Let me introduce myself - I am a recent graduate who is super passionate about data science and all things numbers. 📊
 
-Throughout my academic journey, I developed a strong foundation in data analysis, statistical modeling, and machine learning techniques. I'm a firm believer that data has the power to unlock valuable insights and drive informed decision-making in any industry. 🚀
+Throughout my academic journey, I developed a strong foundation in mathematics, data analysis, statistical modeling, and machine learning techniques. I'm a firm believer that data has the power to unlock valuable insights and drive informed decision-making in any industry. 🚀
 
 During my time at university, I had the opportunity to work on various data-driven projects, where I honed my skills in programming languages like Python and R. I absolutely loved diving into complex datasets, identifying patterns, and building predictive models that could make a real impact. 📈
 
